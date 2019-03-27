@@ -1,0 +1,1 @@
+to build from source, start the developer console in the sourcecode folder and do "cl t.c", and then "t".
